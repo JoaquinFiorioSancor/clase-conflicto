@@ -2,3 +2,5 @@ Peras
 Manzana
 Zanahoria
 Calabaza
+Cebolla
+Morron
